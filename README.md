@@ -1,3 +1,7 @@
+用 Create React App 创建的app, 删除了大部分没用的文件.
+
+目标是写一个手机端的一个麦当劳的外卖前端.  多练多写.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
