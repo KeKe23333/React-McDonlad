@@ -1,10 +1,13 @@
 import './App.css';
+import Meals from './components/Meals/Meals';
 
 function App() {
   return (
+    <>
     <div className="App">
-      aaaaaaaaaaaaa
+      <Meals/>
     </div>
+    </>
   );
 }
 
