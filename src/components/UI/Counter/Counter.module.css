@@ -6,11 +6,10 @@
 .Add{
     border: none;
     background-color: #FCBF49;
-    width: 40rem;
-    height: 40rem;
+    width: 42rem;
+    height: 42rem;
     border-radius: 50%;
-    line-height: 40rem;
-    font-size: 30rem;
+    font-size: 20rem;
 }
 .Sub{
     background-color: white;
