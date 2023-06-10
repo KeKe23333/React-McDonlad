@@ -13,7 +13,7 @@ export default function Meal() {
             <p className={classes.Desc}>百分百纯牛肉搭配酸瓜洋葱粒与美味番茄经典滋味让你无法抵挡！</p>
             <div className={classes.PriceWrap}>
                 <span className={classes.Price}>12</span>
-                <Counter/>
+                <Counter amount = {0} />
             </div>          
         </div>
     </div>
